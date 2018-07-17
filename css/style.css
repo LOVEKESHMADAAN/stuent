@@ -1,0 +1,89 @@
+body{
+    background:#333;
+    color: #fff;
+    }
+.navbar
+{ 
+  border-bottom: #008ed6 3px solid;
+    opacity:0.8;
+}
+@media(max-width:576px){
+    nav .container{
+        width:100%;
+    }    
+}
+#home-section{
+    background: url("../img/home.jpg") no-repeat center top fixed;
+    background-size:cover;
+    background-attachment:fixed;
+    min-height: 700px;
+    
+}
+#home-section .dark-overlay{
+    
+    
+    background-color: rgba(0,0,0,0.7);
+    position: absolute;
+    width: 100%;
+    min-width: 700px;
+}
+#home-section .card{
+    opacity: 1.8;
+}
+#home-section .fa
+{
+    color: antiquewhite;
+    border-radius: 5px;
+}
+.dropdown
+{ 
+  position:absolute;    
+  margin-left: 1000px;
+  margin-top: -780px;
+}
+#home-section .home-inner{
+    padding-top: 50px;
+}
+
+.fbox
+{ 
+  text-align: center;
+}
+.fbox span{
+    font-size: 60px;
+}
+.jumbotron{
+    text-align: center;
+}
+
+#explore{
+    background: url("../img/explore-section1.jpg") no-repeat center top fixed;
+    background-size:cover;
+    background-attachment:fixed;
+    min-height: 300px;
+    
+}
+#create{
+    background: url("../img/create-section1.jpg") no-repeat center top fixed;
+    background-size:cover;
+    background-attachment:fixed;
+    min-height: 300px;
+    
+}
+#share{
+    background: url("../img/share-section1.jpg") no-repeat center top fixed;
+    background-size:cover;
+    background-attachment:fixed;
+    min-height: 300px;
+    
+}
+#span
+
+{ 
+  background: white;  
+    
+}
+.modal
+{
+    color: black;
+}

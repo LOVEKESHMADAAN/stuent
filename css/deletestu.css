@@ -1,0 +1,9 @@
+body
+{
+  
+      background: url("../images/create-section1.jpg") no-repeat center top fixed;
+    background-size:cover;
+    background-color: aqua;
+    background-attachment:fixed;
+    min-height: 700px;
+}

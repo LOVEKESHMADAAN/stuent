@@ -1,0 +1,16 @@
+body
+{
+    background: url("../images/sms1.jpg") no-repeat center top fixed;
+    background-size:cover;
+    background-color: aqua;
+    background-attachment:fixed;
+    min-height: 700px;
+}
+#index
+{
+    background-color: rgba(0,0,0,0.3);
+    position: relative;
+    width: 100%;
+    min-width: 700px;
+}
+

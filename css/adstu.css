@@ -1,0 +1,20 @@
+body
+{
+  
+      background: url("../images/create-section1.jpg") no-repeat center top fixed;
+    background-size:cover;
+    background-color: aqua;
+    background-attachment:fixed;
+    min-height: 700px;
+}
+#login
+{
+    background-color: white;
+    opacity:0.5;
+    position: relative;
+    width: 100%;
+    min-width: 100px;
+    margin-top: 30px;
+    height: 200px;
+}
+
